@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, System Design, DSA, Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtharvRaoRege](https://github.com/AtharvRaoRege)
+- 👨‍💻 All of my projects are available at [**AtharvRaoRege**](https://github.com/AtharvRaoRege)
 
 - 💬 Ask me about **MERN, System Design, DSA, Cloud**
 
